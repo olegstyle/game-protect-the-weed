@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "portrait",
     "packageName": "com.example.gamename",
-    "projectFile": "D:\\studia\\s2\\games\\lab3\\project\\game.json",
+    "projectFile": "C:\\Horyzont\\Gry Komputerowe\\game-protect-the-weed-master\\game-protect-the-weed\\project\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -102,10 +102,10 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "D:/studia/s2/games/lab3/assets/player.png",
+        "file": "../assets/player.png",
         "kind": "image",
         "metadata": "",
-        "name": "D:\\studia\\s2\\games\\lab3\\assets\\player.png",
+        "name": "..\\assets\\player.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -142,15 +142,6 @@
         "kind": "image",
         "metadata": "",
         "name": "NewObject-1-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "RightBullet-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "RightBullet-1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -300,6 +291,411 @@
         "kind": "audio",
         "metadata": "",
         "name": "..\\assets\\audio\\PR9uDSpNFpGH.128.mp3",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Weed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Weed.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Weed-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Weed-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "RightBullet-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "RightBullet-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "LeftBullet-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LeftBullet-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stay-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "stay-3-0.png",
+        "smoothed": true,
         "userAdded": false
       }
     ],
@@ -486,6 +882,7 @@
       "objects": [
         {
           "name": "Player",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -501,7 +898,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "D:\\studia\\s2\\games\\lab3\\assets\\player.png",
+                      "image": "..\\assets\\player.png",
                       "points": [
                         {
                           "name": "Left",
@@ -604,6 +1001,7 @@
         {
           "height": 32,
           "name": "grass",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile162.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -613,6 +1011,7 @@
         {
           "height": 32,
           "name": "groundLeft",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile094.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -622,6 +1021,7 @@
         {
           "height": 32,
           "name": "groundRight",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile094.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -630,6 +1030,7 @@
         },
         {
           "name": "ExitBtn",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -697,6 +1098,7 @@
         },
         {
           "name": "PlayBtn",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -767,6 +1169,7 @@
           "italic": false,
           "name": "ExitTxt",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
@@ -785,6 +1188,7 @@
           "italic": false,
           "name": "PlayTxt",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
@@ -1017,7 +1421,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.736
+        "zoomFactor": 0.86
       },
       "objectsGroups": [],
       "variables": [],
@@ -1371,11 +1775,297 @@
           ],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 131,
+          "y": 567,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 342,
+          "y": 550,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 335,
+          "y": 570,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 312,
+          "y": 556,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 243,
+          "y": 557,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 224,
+          "y": 570,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 295,
+          "y": 572,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 363,
+          "y": 564,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 192,
+          "y": 570,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 260,
+          "y": 571,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 281,
+          "y": 552,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 56,
+          "y": 565,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 168,
+          "y": 568,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 88.8421,
+          "y": 569.684,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 28,
+          "y": 565,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": -1,
+          "y": 568,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 12.2105,
+          "y": 546.947,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 49,
+          "y": 544,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Weed",
+          "width": 0,
+          "x": 110,
+          "y": 558,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
         {
           "name": "Player",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1386,12 +2076,68 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "D:\\studia\\s2\\games\\lab3\\assets\\player.png",
+                      "image": "stay-1-2.png",
+                      "points": [
+                        {
+                          "name": "Left",
+                          "x": 8,
+                          "y": 3
+                        },
+                        {
+                          "name": "Right",
+                          "x": 50.5,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 28.5,
+                        "y": 41
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "stay-2-0.png",
+                      "points": [
+                        {
+                          "name": "Left",
+                          "x": 8,
+                          "y": 3
+                        },
+                        {
+                          "name": "Right",
+                          "x": 50.5,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 28.5,
+                        "y": 41
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "stay-3-0.png",
                       "points": [
                         {
                           "name": "Left",
@@ -1494,6 +2240,7 @@
         {
           "height": 32,
           "name": "grass",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile162.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -1503,6 +2250,7 @@
         {
           "height": 32,
           "name": "groundLeft",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile094.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -1512,6 +2260,7 @@
         {
           "height": 32,
           "name": "groundRight",
+          "tags": "",
           "texture": "..\\assets\\land\\towerDefense_tile094.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -1520,6 +2269,7 @@
         },
         {
           "name": "enemy",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1587,27 +2337,147 @@
         },
         {
           "name": "rightBullet",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "behaviors": [],
           "animations": [
             {
-              "name": "RightBullet",
+              "name": "RightBullet-1",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "RightBullet-1.png",
+                      "image": "RightBullet-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 4.5
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "RightBullet-1-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -1625,27 +2495,147 @@
         },
         {
           "name": "leftBullet",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "behaviors": [],
           "animations": [
             {
-              "name": "NewObject-1",
+              "name": "LeftBullet-1-1",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1-1.png",
+                      "image": "LeftBullet-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 4.5
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "LeftBullet-1-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -1666,6 +2656,7 @@
           "italic": false,
           "name": "GameOver",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
@@ -1684,6 +2675,7 @@
           "italic": false,
           "name": "Score",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
@@ -1702,6 +2694,7 @@
           "italic": false,
           "name": "Level",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
@@ -1717,6 +2710,7 @@
         },
         {
           "name": "crop",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1762,6 +2756,220 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\assets\\land\\towerDefense_tile132.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Weed",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Weed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Weed-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fire",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Fire",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fire-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1993,6 +3201,18 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Fire",
+                    "-",
+                    "5 + GlobalVariable(Level)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ChangeAnimation"
                   },
                   "parameters": [
@@ -2090,6 +3310,18 @@
                   },
                   "parameters": [
                     "Player",
+                    "+",
+                    "5 + GlobalVariable(Level)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Fire",
                     "+",
                     "5 + GlobalVariable(Level)"
                   ],
@@ -2211,8 +3443,8 @@
                   "parameters": [
                     "",
                     "leftBullet",
-                    "Player.X(\"Left\")",
-                    "Player.Y(\"Left\")",
+                    "Player.X(\"Left\") - 9",
+                    "Player.Y(\"Left\") - 20",
                     ""
                   ],
                   "subInstructions": []
@@ -2238,6 +3470,20 @@
                     "..\\assets\\audio\\left.wav",
                     "",
                     "75",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Fire",
+                    "Player.X(\"Left\") - 8",
+                    "Player.Y(\"Left\") - 15",
                     ""
                   ],
                   "subInstructions": []
@@ -2283,8 +3529,8 @@
                   "parameters": [
                     "",
                     "rightBullet",
-                    "Player.X(\"Right\")",
-                    "Player.Y(\"Right\")",
+                    "Player.X(\"Right\") - 9",
+                    "Player.Y(\"Right\") - 20",
                     ""
                   ],
                   "subInstructions": []
@@ -2310,6 +3556,51 @@
                     "..\\assets\\audio\\right.wav",
                     "",
                     "75",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Fire",
+                    "Player.X(\"Right\") - 7",
+                    "Player.Y(\"Right\") - 15",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "AnimationEnded"
+                  },
+                  "parameters": [
+                    "Fire"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Fire",
                     ""
                   ],
                   "subInstructions": []
