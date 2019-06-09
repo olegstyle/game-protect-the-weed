@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "portrait",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Horyzont\\Gry Komputerowe\\game-protect-the-weed-master\\game-protect-the-weed\\project\\game.json",
+    "projectFile": "/Users/olehborysenko/studia/games/game-protect-the-weed/project/game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -3194,7 +3194,7 @@
                   "parameters": [
                     "Player",
                     "-",
-                    "5 + GlobalVariable(Level)"
+                    "7"
                   ],
                   "subInstructions": []
                 },
@@ -3206,7 +3206,7 @@
                   "parameters": [
                     "Fire",
                     "-",
-                    "5 + GlobalVariable(Level)"
+                    "7"
                   ],
                   "subInstructions": []
                 },
@@ -3311,7 +3311,7 @@
                   "parameters": [
                     "Player",
                     "+",
-                    "5 + GlobalVariable(Level)"
+                    "7"
                   ],
                   "subInstructions": []
                 },
@@ -3323,7 +3323,7 @@
                   "parameters": [
                     "Fire",
                     "+",
-                    "5 + GlobalVariable(Level)"
+                    "7"
                   ],
                   "subInstructions": []
                 },
