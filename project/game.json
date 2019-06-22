@@ -24,7 +24,7 @@
     "author": "WWSIS",
     "windowWidth": 400,
     "windowHeight": 600,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Horyzont\\Gry Komputerowe",
     "maxFPS": 60,
     "minFPS": 10,
     "verticalSync": false,
@@ -3037,6 +3037,106 @@
         "name": "Title-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "../assets/audio/Metal_Barrel.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\assets\\audio\\Metal_Barrel.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "../assets/audio/Metal_Barrel.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\assets\\audio\\Metal_Barrel.wav",
+        "userAdded": true
+      },
+      {
+        "file": "../assets/audio/Metal_Barrel-[AudioTrimmer.com].wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\assets\\audio\\Metal_Barrel-[AudioTrimmer.com].wav",
+        "userAdded": true
+      },
+      {
+        "file": "../assets/audio/Fireball-[AudioTrimmer.com].wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\assets\\audio\\Fireball-[AudioTrimmer.com].wav",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_6-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_6-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_6-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_7-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_6-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_6-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_6-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_6-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../assets/ui/b_7-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\assets\\ui\\b_7-1-0.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4643,7 +4743,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.904
+        "zoomFactor": 0.814
       },
       "objectsGroups": [],
       "variables": [],
@@ -8827,6 +8927,20 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "..\\assets\\audio\\Metal_Barrel-[AudioTrimmer.com].wav",
+                        "no",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "Create"
                       },
                       "parameters": [
@@ -9059,6 +9173,20 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "..\\assets\\audio\\Metal_Barrel-[AudioTrimmer.com].wav",
+                        "no",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
                     {
                       "type": {
                         "inverted": false,
@@ -9475,7 +9603,7 @@
                     "value": "Egal"
                   },
                   "parameters": [
-                    "Player.X()-10",
+                    "Player.X()-20",
                     "<",
                     "enemy.X()"
                   ],
@@ -9487,7 +9615,7 @@
                     "value": "Egal"
                   },
                   "parameters": [
-                    "Player.X()+10",
+                    "Player.X()+20",
                     ">",
                     "enemy.X()"
                   ],
@@ -9540,6 +9668,20 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "..\\assets\\audio\\Fireball-[AudioTrimmer.com].wav",
+                    "no",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -9622,6 +9764,20 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "..\\assets\\audio\\Scream+5.wav",
+                    "no",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -19077,6 +19233,36 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "LeftArrow",
+          "width": 0,
+          "x": 20,
+          "y": 270,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "RIghtArrow",
+          "width": 0,
+          "x": 335,
+          "y": 270,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -19201,6 +19387,84 @@
           "variables": [],
           "behaviors": [],
           "animations": []
+        },
+        {
+          "name": "LeftArrow",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "b_6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\assets\\ui\\b_6-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RIghtArrow",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "b_7",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\assets\\ui\\b_7-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
